@@ -9,7 +9,7 @@ void encrypt_word_with_caesar_cipher(char word[], int key) {
 	for(i = 0; word[i] != '\0'; i++) {
 		char current_character = word[i];
 	
-		if(current_character >= 'a' && current_character < ('z' - key)) {
+		if(current_character >= 'a' && current_character <= 'z') {
 			current_character = current_character + key;
 			
 			if(current_character > 'z') {
@@ -17,7 +17,7 @@ void encrypt_word_with_caesar_cipher(char word[], int key) {
 			}
 			
 			word[i] = current_character;
-		} else if(current_character >= 'A' && current_character < 'Z') {
+		} else if(current_character >= 'A' && current_character <= 'Z') {
 			current_character = current_character + key;
 			
 			if(current_character > 'Z') {
@@ -32,6 +32,8 @@ void encrypt_word_with_caesar_cipher(char word[], int key) {
 int main(){
 	char word[100];
 	int numero;
+	
+	setlocale(LC_ALL, "portuguese-brazilian");
 		
 	printf("Digite a palavra que deseja encriptar: \n");
 	scanf("%s", &word);
