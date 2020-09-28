@@ -12,11 +12,11 @@
 2. O algoritmo cria dois vetores de números inteiros, um em que serão armazenados as raizes do polinômio e o outro para armazenar os indíces do polinômio resultante mais o resto da divisão(que pode ser 0);
 3. O algoritmo então pega o primeiro indice do vetor de indices e o coloca no primeiro local de memória do vetor de novos indices;
 4. A partir desse primeiro valor ele calcula todos os outros indices utilizando a fórmula ```novo_indice = (raiz * novo_indice_anterior) + indice_atual``` onde novo_indice_anterior é o indice que foi calculado no passo anterior ou na ultima iteração dessa mesma fórmula;
-5. O algoritmo pega todos os valores resultantes do passo anterior (N-1 indices e um resto de divisão) e os printa na tela no seguinte modelo de texto:
-   "O polinômio resultante é de grau X", sendo x o valor do grau original menos 1;
-   "Grau y: z", sendo y e z o identificador, denotado por uma letra que vai de a até z dependendo do grau do polinômio original, e o valor do novo indície no polinômio resultante, respectivamente;
-   ...
-   "Resto da divisão: w" sendo w o ultimo valor do vetor de novos indices e, também, o resto da divisão entre os dois polinômios; 
+5. O algoritmo pega todos os valores resultantes do passo anterior (N-1 indices e um resto de divisão) e os printa na tela no seguinte modelo de texto: \
+   "O polinômio resultante é de grau X", sendo x o valor do grau original menos 1; \
+   "Grau y: z", sendo y e z o identificador, denotado por uma letra que vai de a até z dependendo do grau do polinômio original, e o valor do novo indície no polinômio resultante, respectivamente; \
+   ... \
+   "Resto da divisão: w" sendo w o ultimo valor do vetor de novos indices e, também, o resto da divisão entre os dois polinômios; \
 
 # [EN]
 ## Algorithm for the easier resolution of the Briot-Ruffini's rule
