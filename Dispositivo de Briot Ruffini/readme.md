@@ -4,6 +4,7 @@
 > Em matemática, o dispositivo de Briot-Ruffini é uma forma prática de resolver com papel e caneta a [divisão euclidiana](https://pt.wikipedia.org/wiki/Divis%C3%A3o_euclidiana)
 > de um [polinômio](https://pt.wikipedia.org/wiki/Polin%C3%B4mio) por um binômio da forma x - r. Foi descrito inicialmente por [Paolo Ruffini](https://pt.wikipedia.org/wiki/Paolo_Ruffini) 
 > em 1804. O dispositivo de Briot-Ruffini é um caso especial da divisão sintética quando o divisor é um fator linear.
+
 -Traduzido da Wikipedia em inglês, [Ruffinis Rule](https://en.wikipedia.org/wiki/Ruffini%27s_rule)
 
 ### Como funciona esse algoritmo?
@@ -24,6 +25,7 @@
 > of a [polynomial](https://en.wikipedia.org/wiki/Polynomial) by a [binomial](https://en.wikipedia.org/wiki/Binomial_(polynomial)) of the form x – r. It was described 
 > by [Paolo Ruffini](https://en.wikipedia.org/wiki/Paolo_Ruffini) in 1804. Ruffini's rule is a special case of [synthetic division](https://en.wikipedia.org/wiki/Synthetic_division) 
 > when the divisor is a linear factor.
+
 -Wikipedia, [Ruffinis Rule](https://en.wikipedia.org/wiki/Ruffini%27s_rule)
 
 ### How does this algorithm works?
