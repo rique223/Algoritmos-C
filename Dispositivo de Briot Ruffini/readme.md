@@ -33,8 +33,8 @@
 2. The algorithm instantiates two integer vectors, in one of them it will be stored the coefficients of the polynomial and in the other one it will be stored the new coefficients of the resulting polynomial and the rest of the division(which can be 0); 
 3. The algorithm then gets the first coefficient from the coefficients vector and puts it at the first memory place of the new coefficients vector;
 4. From that first value, all other coefficients are calculated using the following equation ```new_coefficient = (root * last_new_coefficient) + current_coefficient``` in which last_new_coefficient is the coefficient that was calculated in the previous step or in the previous iteration of this same equation;
-5. The algorithm takes all the values from the previous step (N-1 coefficients and the rest of the division) and prints them on the screen using the following text model:
-   "The resulting polynomial is of X degree", being that x is the value of the original degree less one;
-   "y degree: z", beign y and z the identifier, denoted by a letter that can go from a to z depending on the original polynomial degree, and the new coefficients value in the resulting polynomial, respectively;
-   ...
-   "Rest of the division: w" beign that w is the last value of the new coefficients vector and, also, the rest of the division between the two polynomials;
+5. The algorithm takes all the values from the previous step (N-1 coefficients and the rest of the division) and prints them on the screen using the following text model:  
+   "The resulting polynomial is of X degree", being that x is the value of the original degree less one;  
+   "y degree: z", beign y and z the identifier, denoted by a letter that can go from a to z depending on the original polynomial degree, and the new coefficients value in the resulting polynomial, respectively;  
+   ...  
+   "Rest of the division: w" beign that w is the last value of the new coefficients vector and, also, the rest of the division between the two polynomials;  
