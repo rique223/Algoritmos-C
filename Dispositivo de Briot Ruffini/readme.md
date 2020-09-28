@@ -1,9 +1,9 @@
 # [PT-BR]
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
 ### O que é o dispositivo prático de Briot-Ruffini?
-> Em matemática, o dispositivo de Briot-Ruffini é uma forma prática de resolver com papel e caneta a [divisão euclidiana](https://pt.wikipedia.org/wiki/Divis%C3%A3o_euclidiana)
+> "Em matemática, o dispositivo de Briot-Ruffini é uma forma prática de resolver com papel e caneta a [divisão euclidiana](https://pt.wikipedia.org/wiki/Divis%C3%A3o_euclidiana)
 > de um [polinômio](https://pt.wikipedia.org/wiki/Polin%C3%B4mio) por um binômio da forma x - r. Foi descrito inicialmente por [Paolo Ruffini](https://pt.wikipedia.org/wiki/Paolo_Ruffini) 
-> em 1804. O dispositivo de Briot-Ruffini é um caso especial da divisão sintética quando o divisor é um fator linear.
+> em 1804. O dispositivo de Briot-Ruffini é um caso especial da divisão sintética quando o divisor é um fator linear."
 
 -Traduzido da Wikipedia em inglês, [Ruffinis Rule](https://en.wikipedia.org/wiki/Ruffini%27s_rule)
 
@@ -21,10 +21,10 @@
 # [EN]
 ## Algorithm for the easier resolution of the Briot-Ruffini's rule
 ### What is the Briot-Rufinni's rule?
-> In mathematics, Ruffini's rule is a practical way for paper-and-pencil computation of the [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division) 
+> "In mathematics, Ruffini's rule is a practical way for paper-and-pencil computation of the [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division) 
 > of a [polynomial](https://en.wikipedia.org/wiki/Polynomial) by a [binomial](https://en.wikipedia.org/wiki/Binomial_(polynomial)) of the form x – r. It was described 
 > by [Paolo Ruffini](https://en.wikipedia.org/wiki/Paolo_Ruffini) in 1804. Ruffini's rule is a special case of [synthetic division](https://en.wikipedia.org/wiki/Synthetic_division) 
-> when the divisor is a linear factor.
+> when the divisor is a linear factor."
 
 -Wikipedia, [Ruffinis Rule](https://en.wikipedia.org/wiki/Ruffini%27s_rule)
 
