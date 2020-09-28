@@ -16,7 +16,7 @@
    "O polinômio resultante é de grau X", sendo x o valor do grau original menos 1; \
    "Grau y: z", sendo y e z o identificador, denotado por uma letra que vai de a até z dependendo do grau do polinômio original, e o valor do novo indície no polinômio resultante, respectivamente; \
    ... \
-   "Resto da divisão: w" sendo w o ultimo valor do vetor de novos indices e, também, o resto da divisão entre os dois polinômios; \
+   "Resto da divisão: w" sendo w o ultimo valor do vetor de novos indices e, também, o resto da divisão entre os dois polinômios; 
 
 # [EN]
 ## Algorithm for the easier resolution of the Briot-Ruffini's rule
@@ -37,4 +37,4 @@
    "The resulting polynomial is of X degree", being that x is the value of the original degree less one;  \
    "y degree: z", beign y and z the identifier, denoted by a letter that can go from a to z depending on the original polynomial degree, and the new coefficients value in the resulting polynomial, respectively; \
    ... \
-   "Rest of the division: w" beign that w is the last value of the new coefficients vector and, also, the rest of the division between the two polynomials; \
+   "Rest of the division: w" beign that w is the last value of the new coefficients vector and, also, the rest of the division between the two polynomials; 
