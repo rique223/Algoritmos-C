@@ -1,4 +1,8 @@
 # [PT-BR]
+
+##Showcase do algorimo
+[algorithm showcase](briot-ruffini.gif)
+
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
 ### O que é o dispositivo prático de Briot-Ruffini?
 > "Em matemática, o dispositivo de Briot-Ruffini é uma forma prática de resolver com papel e caneta a [divisão euclidiana](https://pt.wikipedia.org/wiki/Divis%C3%A3o_euclidiana)
