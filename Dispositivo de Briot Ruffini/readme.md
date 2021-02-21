@@ -23,6 +23,9 @@
    "Resto da divisão: w" sendo w o ultimo valor do vetor de novos indices e, também, o resto da divisão entre os dois polinômios; 
 
 # [EN]
+
+![Teste](./Gifs/briot-ruffini-english.gif)
+
 ## Algorithm for the easier resolution of the Briot-Ruffini's rule
 ### What is the Briot-Rufinni's rule?
 > "In mathematics, Ruffini's rule is a practical way for paper-and-pencil computation of the [Euclidean division](https://en.wikipedia.org/wiki/Euclidean_division) 
