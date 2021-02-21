@@ -1,7 +1,7 @@
 # [PT-BR]
 
 ## Showcase do algorimo
-![](Dispositivo de Briot Ruffini/Gifs/briot-ruffini.gif)
+![](./Dispositivo de Briot Ruffini/Gifs/briot-ruffini.gif)
 
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
 ### O que é o dispositivo prático de Briot-Ruffini?
