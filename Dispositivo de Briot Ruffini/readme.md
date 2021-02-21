@@ -1,6 +1,6 @@
 # [PT-BR]
 
-##Showcase do algorimo
+## Showcase do algorimo
 [algorithm showcase](briot-ruffini.gif)
 
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
