@@ -1,7 +1,7 @@
 # [PT-BR]
 
 ## Showcase do algorimo
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PR9tZoy" data-context="false" ><a href="//imgur.com/a/PR9tZoy">Briot ruffini algorithm</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Imgur Image](https://i.imgur.com/gallery/PR9tZoy.gif)
 
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
 ### O que é o dispositivo prático de Briot-Ruffini?
