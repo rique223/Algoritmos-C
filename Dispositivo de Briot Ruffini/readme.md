@@ -1,7 +1,7 @@
 # [PT-BR]
 
 ## Showcase do algorimo
-[algorithm showcase](https://github.com/rique223/Algoritmos-C/blob/master/Dispositivo%20de%20Briot%20Ruffini/Gifs/briot-ruffini.gif)
+[algorithm showcase](https://github.com/rique223/Algoritmos-C/blob/master/Dispositivo%20de%20Briot%20Ruffini/Gifs/briot-ruffini.gif?raw=true)
 
 ## Algoritmo para resolução facilitada do dispositivo prático de Briot-Ruffini
 ### O que é o dispositivo prático de Briot-Ruffini?
